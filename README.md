@@ -1,1 +1,0 @@
-# NOTT-Detector-Lab
