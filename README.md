@@ -14,5 +14,5 @@ This repository contains the following folders and files:
 - **`sky_code_analysis/`**  
   This folder contains more data from the LBTI code and the corresponding ramp analysis based on several ramps, reads, groups, and coadds. It also includes the script to identify the best window on the detector frame for horizontal and vertical windows.
 
-  - **`ramp_mode_check_using_pixel_values.ipynb/`**
-  - This notebook analyses the signals(read, reset, read) during ramp mode acquisition.  
+- **`ramp_mode_check_using_pixel_values.ipynb/`**
+  This notebook analyses the signals(read, reset, read) during ramp mode acquisition.  
